@@ -27,10 +27,47 @@ User can register itself to the system by using "Kayıt Ol"(Sign Up) button. Dat
 <br><br>
 
 ## Student Panel
-| <img src="images/Resim4.png" height="430" width="200"> | <img src="images/Resim4.png" height="430" width="200"> |
+| <img src="images/Resim4.png" height="430" width="200"> | <img src="images/Resim5.png" height="430" width="200"> |
 | ------------- | ------------- |
 | Panel  | Application Options  |
 
 
-Students can apply application and can edit their informations such as phone number, e-mail... Upper box shows infos about students
+Students can apply application and can edit their informations such as phone number, e-mail... Upper box shows infos about students.
+
+<br><br>
+
+## Making an Application
+| <img src="images/Resim6.png" height="430" width="200"> | <img src="images/Resim7.png" height="430" width="200"> |
+| ------------- | ------------- |
+| Application Form  | Form to PDF  |
+
+Student should fill the form in order to download application PDF. Application PDF is necessary to apply. This page redirects to file upload page.
+
+<br>
+
+<img src="images/Resim8.png" height="430" width="200">
+
+This is file upload page, last step of application. Student must upload all files in order to complete application.
+
+
+<br><br>
+
+## Admin Panel
+<img src="images/Resim1.png" height="430" width="200">
+
+To login as admin, you have to click "Admin Girişi" button in login page.
+
+<br>
+
+| <img src="images/Resim11.png" height="430" width="200"> | <img src="images/Resim9.png" height="430" width="200"> |
+| ------------- | ------------- |
+| Admin Panel | View Applications |  
+
+This is Admin Panel. Admins can view and apply or reject applications from here
+
+
+
+
+
+
 
