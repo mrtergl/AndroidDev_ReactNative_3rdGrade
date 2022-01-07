@@ -34,6 +34,13 @@ User can register itself to the system by using "Kayıt Ol"(Sign Up) button. Dat
 
 Students can apply application and can edit their informations such as phone number, e-mail... Upper box shows infos about students.
 
+<br>
+
+| <img src="images/Resim9.png" height="430" width="200"> |
+| ------------- |
+| Edit Information|
+
+
 <br><br>
 
 ## Making an Application
@@ -59,7 +66,7 @@ To login as admin, you have to click "Admin Girişi" button in login page.
 
 <br>
 
-| <img src="images/Resim11.png" height="430" width="200"> | <img src="images/Resim9.png" height="430" width="200"> |
+| <img src="images/Resim11.png" height="430" width="200"> | <img src="images/Resim10.png" height="430" width="200"> |
 | ------------- | ------------- |
 | Admin Panel | View Applications |  
 
